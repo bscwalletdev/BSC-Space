@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to BNS-space
 <div>
-wu di
+The BNS.SPACE (Block chain name System) deployment platform is combined .BTC domain name service and DAPP distributed server deployment are the first convenient, lightweight and applicable decentralized comprehensive cloud service platform.
 </div>
 
 
